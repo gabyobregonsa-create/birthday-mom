@@ -670,17 +670,21 @@ body {
 /* ADAPTACIÓN MÓVIL */
 
 @media (max-width: 600px) {
+    
+
     .coffin-stage {
         bottom: -60px;
         transform-origin: bottom center;
     }
 
     .coffin {
-        transform: translate(-50%, -50%) scaleX(.60) scaleY(.90);
+        width: 290px;
+        height: 460px;
+        transform: translate(-50%, -50%) scaleX(.65) scaleY(.90);
     }
 
     .coffin.is-open .coffin-lid {
-        transform: translateX(-190px) rotate(-2deg) scaleX(.82) scaleY(.90);
+        transform: translateX(-165px) rotate(-2deg);
     }
 
 }
