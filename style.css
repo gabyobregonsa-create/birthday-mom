@@ -784,7 +784,7 @@ body {
     flex-direction: column;
     align-items: center;
 
-    transform: translateX(-50%) scale(.75);
+    transform: translateX(-50%) scale(.85);
     transform-origin: bottom center;
 
     z-index: 6;
