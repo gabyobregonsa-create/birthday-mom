@@ -676,11 +676,11 @@ body {
     }
 
     .coffin {
-        transform: translate(-50%, -50%) scaleX(.82) scaleY(.90);
+        transform: translate(-50%, -50%) scaleX(.60) scaleY(.90);
     }
 
     .coffin.is-open .coffin-lid {
-        transform: translateX(-305px) rotate(-2deg) scaleX(.82) scaleY(.90);
+        transform: translateX(-220px) rotate(-2deg) scaleX(.82) scaleY(.90);
     }
 
 }
