@@ -1059,7 +1059,7 @@ body {
     .birthday-cake {
     left: 35%;
     bottom: 150px;
-    transform: translateX(-20%) scale(.55);
+    transform: translateX(-20%) scale(.65);
 }
 
     .letter-button {
